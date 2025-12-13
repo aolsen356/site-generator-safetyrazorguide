@@ -1,0 +1,20 @@
+# Logs
+*.log
+agent-stdout.log
+agent-stderr.log
+site-agent.log
+
+# Lock files
+unfinished.lock
+.created
+
+# Agent script (not needed in repo)
+site-agent.sh
+
+# Node (for Next.js sites)
+node_modules/
+.next/
+out/
+
+# OS files
+.DS_Store
