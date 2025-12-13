@@ -578,3 +578,71 @@ A: Typical savings: $150-250 per year after the initial razor purchase. Example:
 - Practical tools (cost calculator)
 - Complete beginner support (troubleshooting, maintenance)
 - Honest about learning curve (builds trust)
+
+---
+
+## Amazon Products with ASINs
+
+All affiliate links should use tag=kcwd-20. Format: `https://www.amazon.com/dp/{ASIN}?tag=kcwd-20`
+
+### Safety Razors (5 Products)
+
+| Product | ASIN | Price Range | Notes |
+|---------|------|-------------|-------|
+| **Merkur 34C HD** | B002A8JO1Q | ~$40 | Editor's Choice - Heavy Duty short handle, closed comb, 77g. Best for beginners. |
+| **Edwin Jagger DE89BL** | B003LW4L2W | ~$35 | Chrome plated, triple-plated brass, 65g. Lighter alternative. |
+| **Vikings Blade Chieftain** | B011L8WJIA | ~$30 | Budget-friendly, includes 5 blades + luxury case. |
+| **Henson AL-13 (Aluminum)** | B0B6QJY4Z2 | ~$70 | Aerospace-grade aluminum, ultra-mild, best for sensitive skin. |
+| **Rockwell 6C White Chrome** | B0779ZMLXJ | ~$50 | Adjustable (6 settings), includes 5 blades. Great for experimentation. |
+
+**Long Handle Options (for Women's Section):**
+| Product | ASIN | Notes |
+|---------|------|-------|
+| Edwin Jagger DE89L Long Handle | B01H3P10X0 | 4" handle, better for legs/body shaving |
+| Edwin Jagger Chrome Lined Long Handle | B015TB3J3E | Alternative long handle option |
+
+### Razor Blades (5 Products)
+
+| Product | ASIN | Count | Cost/Blade | Notes |
+|---------|------|-------|------------|-------|
+| **Astra Superior Platinum** | B001QY8QXM | 100 | ~$0.12 | Best all-around, recommended for beginners |
+| **Derby Extra** | B004SGKMA0 | 100 | ~$0.10 | Mildest option, very forgiving for beginners |
+| **Feather Hi-Stainless** | B00301APUQ | 50 | ~$0.45 | Sharpest blade, for experienced users only |
+| **Gillette Silver Blue** | B0059QF5RS | 100 | ~$0.30 | Smooth and reliable, quality mid-range option |
+| **Blade Sampler Pack** | B00408QC3C | 50 | varies | 10 packs of 5 from top brands (Feather, Astra, Nacet, BIC, Shark) |
+
+**Alternative Blade Counts:**
+| Blade | Small Pack ASIN | Large Pack ASIN |
+|-------|-----------------|-----------------|
+| Astra SP | B00P8NXAG0 (15) | B001QY8QXM (100) |
+| Derby Extra | B0026MRA1W (25) | B004SGKMA0 (100) |
+| Feather | B001G5FOLI (10) | B004RWTQTS (100) |
+
+### Accessories (2 Products)
+
+| Product | ASIN | Price Range | Notes |
+|---------|------|-------------|-------|
+| **Parker Synthetic Shaving Brush** | B0759WSTD6 | ~$15-20 | 22mm knot, vegan, fast-drying, includes stand |
+| **Blade Sampler Variety Pack** | B01BUJ0252 | ~$15 | 16 different blades + alum block |
+
+### Complete Affiliate Link Format
+
+Use this format for all product links:
+```
+https://www.amazon.com/dp/B002A8JO1Q?tag=kcwd-20
+```
+
+### Quick Reference - Primary Products for Comparison Table
+
+| Product | ASIN | Affiliate Link |
+|---------|------|----------------|
+| Merkur 34C | B002A8JO1Q | https://www.amazon.com/dp/B002A8JO1Q?tag=kcwd-20 |
+| Edwin Jagger DE89 | B003LW4L2W | https://www.amazon.com/dp/B003LW4L2W?tag=kcwd-20 |
+| Vikings Blade Chieftain | B011L8WJIA | https://www.amazon.com/dp/B011L8WJIA?tag=kcwd-20 |
+| Henson AL-13 | B0B6QJY4Z2 | https://www.amazon.com/dp/B0B6QJY4Z2?tag=kcwd-20 |
+| Rockwell 6C | B0779ZMLXJ | https://www.amazon.com/dp/B0779ZMLXJ?tag=kcwd-20 |
+| Astra SP (100) | B001QY8QXM | https://www.amazon.com/dp/B001QY8QXM?tag=kcwd-20 |
+| Derby Extra (100) | B004SGKMA0 | https://www.amazon.com/dp/B004SGKMA0?tag=kcwd-20 |
+| Feather (50) | B00301APUQ | https://www.amazon.com/dp/B00301APUQ?tag=kcwd-20 |
+| Gillette Silver Blue (100) | B0059QF5RS | https://www.amazon.com/dp/B0059QF5RS?tag=kcwd-20 |
+| Blade Sampler | B00408QC3C | https://www.amazon.com/dp/B00408QC3C?tag=kcwd-20 |
