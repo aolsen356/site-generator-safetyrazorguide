@@ -11,7 +11,7 @@ Domain: safetyrazorguide.webcytz.com
 - [x] Initialize git repository
 - [x] Create GitHub repo (site-generator-safetyrazorguide)
 - [x] Create Cloudflare Pages project with GitHub integration
-- [ ] Add DNS CNAME record for safetyrazorguide.webcytz.com
+- [x] Add DNS CNAME record for safetyrazorguide.webcytz.com
 - [ ] Add custom domain to Cloudflare Pages project
 
 ## Phase 2: Research & Planning
