@@ -152,3 +152,165 @@ This file will be updated as the site develops.
 - Emphasize cost savings and skin health benefits
 - Target long-tail keywords competitors may miss
 - Include women's shaving content (underserved niche)
+
+---
+
+## Competitor Analysis (Top 3 Sites)
+
+### Competitor 1: Sharpologist.com
+**URL:** sharpologist.com/best-safety-razor-beginners/
+
+**Strengths:**
+- 20+ years of author experience establishing authority
+- Categorized recommendations (easy transition, budget, conventional wisdom)
+- Strong community engagement (48+ comments)
+- Blade sampler approach for reducing trial costs
+- Internal linking to related content
+
+**Weaknesses:**
+- No concrete pricing (says "reasonably priced" without figures)
+- Missing cost-of-ownership calculations
+- Limited women's/diverse skin type coverage
+- U.S.-centric recommendations
+- No embedded technique videos
+- Minimal maintenance/storage guidance
+- No head-to-head specification comparisons (blade gap, weight)
+
+**Products Featured:** OneBlade, Supply SE, Weishi Nostalgic, Merkur 34C, Henson AL-13, Edwin Jagger DE89, Rockwell 6S
+
+---
+
+### Competitor 2: ShavingAdvisor.com
+**URL:** shavingadvisor.com/safety-razors/best-safety-razor-for-beginners/
+
+**Strengths:**
+- First-person narrative builds trust
+- Technical specifications included (blade gaps, weights, dimensions)
+- Multiple product photos showing details
+- Video content embedded
+- Clear price range ($23-85)
+- Acknowledges beginner fears and learning curve
+
+**Weaknesses:**
+- No blade pairing recommendations per razor
+- Missing razor maintenance/cleaning guidance
+- Sparse shaving technique detail
+- No comparison tables (side-by-side summary missing)
+- Limited aftercare product mentions
+- Minimal women's perspective
+
+**Products Featured:** Merkur 34C (~$40), Edwin Jagger DE89 (~$45), King C Gillette ($23), Merkur 23C (~$30), Merkur Progress ($70-85)
+
+---
+
+### Competitor 3: Gentleman's Gazette
+**URL:** gentlemansgazette.com/double-edge-razor-blade-guide/
+
+**Strengths:**
+- Comprehensive blade coverage (13 brands + 11 honorable mentions)
+- Cost-per-blade calculations ($0.03 to $0.60 range)
+- 28-minute video demonstration
+- Personal testimonials from team testing
+- Detailed FAQ section (11 questions)
+- Technical coating explanations (platinum, tungsten, chromium)
+
+**Weaknesses:**
+- Blade-focused, not razor-focused
+- No troubleshooting for common problems
+- Limited storage/longevity tips
+- No environmental/sustainability angle
+- Testing methodology not transparent
+- Reviewer bias toward aggressive blades
+- No cost-per-shave analysis
+
+**Products Featured:** Astra, BiC, BlueBird, Derby, Feather, Gillette, LORD, Merkur, Mühle, Parker, Personna, Shark, Voskhod, Wilkinson Sword
+
+---
+
+## Content Gaps to Exploit (Differentiation Strategy)
+
+### High-Priority Gaps (All competitors miss these)
+
+1. **Interactive Cost Calculator**
+   - No competitor offers a tool to calculate savings over 1-5 years
+   - Include: razor cost, blade cost, shaves per blade, shaves per week
+   - Show comparison to cartridge razor costs
+
+2. **Women's Safety Razor Guide**
+   - Competitors barely address women's needs
+   - Cover: legs, underarms, bikini area
+   - Address longer handle preferences, mild blade options
+   - Include body shaving technique (different from face)
+
+3. **Side-by-Side Comparison Tables**
+   - No competitor has a clear at-a-glance comparison
+   - Include: Price, weight, blade gap, aggressiveness rating, best for
+
+4. **Blade + Razor Pairing Guide**
+   - No competitor matches specific blades to specific razors
+   - Beginner combo recommendations (e.g., "Merkur 34C + Astra SP")
+
+5. **Troubleshooting Guide**
+   - Common problems: nicks, razor burn, ingrown hairs, tugging
+   - Causes and solutions for each
+   - When to change blades, angle adjustments
+
+6. **Maintenance & Longevity Guide**
+   - How to clean and store razors
+   - Drying techniques to extend blade life
+   - When to replace razor components
+
+### Medium-Priority Gaps
+
+7. **TSA Travel Rules**
+   - Razor body: OK in carry-on
+   - Blades: Checked luggage only
+   - Blade disposal tips for travel
+
+8. **Environmental Impact Section**
+   - Plastic waste comparison
+   - Blade recycling (blade banks)
+   - Sustainable brand options
+
+9. **First Shave Walkthrough**
+   - Step-by-step for absolute beginners
+   - Common mistakes to avoid
+   - Expected learning curve timeline
+
+10. **Sensitive Skin Protocol**
+    - Pre-shave preparation
+    - Mild razor + mild blade combos
+    - Post-shave care products
+
+### Low-Priority (Nice to Have)
+
+11. **Gift Guide Section**
+    - Starter kits for different budgets
+    - Holiday/seasonal relevance
+
+12. **Upgrade Path**
+    - When to move from beginner to intermediate razors
+    - Adjustable razor benefits
+
+---
+
+## Content Outline Recommendations
+
+Based on competitor analysis, our site should include:
+
+### Homepage Sections
+1. Hero: Value proposition (cost savings, better shave, eco-friendly)
+2. Why Switch from Cartridge Razors (address pain points)
+3. Best Safety Razors for Beginners (comparison table)
+4. How to Use a Safety Razor (technique guide)
+5. Best Blades for Beginners (with razor pairings)
+6. Cost Savings Calculator (interactive element)
+7. FAQ Section (10+ questions with schema markup)
+8. Women's Guide (dedicated section or linked page)
+
+### Differentiation Strategy
+- More concrete data (prices, specs, savings calculations)
+- Better visual organization (comparison tables)
+- Inclusive content (women's shaving)
+- Practical tools (cost calculator)
+- Complete beginner support (troubleshooting, maintenance)
