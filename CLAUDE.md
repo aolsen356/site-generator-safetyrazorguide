@@ -294,23 +294,287 @@ This file will be updated as the site develops.
 
 ---
 
-## Content Outline Recommendations
+## Detailed Content Outline (8 Main Sections)
 
-Based on competitor analysis, our site should include:
+### Section 1: Hero & Introduction
+**Target Keywords:** safety razor, best safety razor for beginners, double edge safety razor
 
-### Homepage Sections
-1. Hero: Value proposition (cost savings, better shave, eco-friendly)
-2. Why Switch from Cartridge Razors (address pain points)
-3. Best Safety Razors for Beginners (comparison table)
-4. How to Use a Safety Razor (technique guide)
-5. Best Blades for Beginners (with razor pairings)
-6. Cost Savings Calculator (interactive element)
-7. FAQ Section (10+ questions with schema markup)
-8. Women's Guide (dedicated section or linked page)
+**Hero Content:**
+- Headline: "The Complete Guide to Safety Razors: Save Money, Shave Better"
+- Subheadline: Address 3 pain points (cost, irritation, environment)
+- Primary CTA: "Find Your Perfect Razor" (anchor to comparison section)
+- Secondary CTA: "Calculate Your Savings" (anchor to calculator)
 
-### Differentiation Strategy
+**Introduction (200-300 words):**
+- What is a safety razor (brief history, how it works)
+- Why people are switching from cartridge razors
+- What this guide covers (overview of sections)
+- Who this guide is for (beginners, sensitive skin, women, eco-conscious)
+
+---
+
+### Section 2: Why Switch to Safety Razors
+**Target Keywords:** safety razor vs cartridge, safety razor benefits, why use safety razor
+
+**Subsection 2.1: Cost Savings**
+- Cartridge razor math: $4-6 per cartridge × 52 cartridges/year = $200-300/year
+- Safety razor math: $0.10-0.50 per blade × 52 blades/year = $5-26/year
+- One-time razor investment: $30-70
+- Break-even point: 2-4 months
+- Include visual: Cost comparison chart (Year 1, Year 3, Year 5)
+
+**Subsection 2.2: Better Shave Quality**
+- Single blade = less irritation (no multi-blade tugging)
+- Closer shave with proper technique
+- Reduced ingrown hairs
+- Better for sensitive skin
+
+**Subsection 2.3: Environmental Benefits**
+- Plastic waste: 2 billion disposable razors in landfills annually (US)
+- Metal blades are recyclable (blade banks)
+- Lifetime razor vs disposable cartridge handles
+- Sustainable brand options
+
+**Subsection 2.4: The Learning Curve (Honesty)**
+- Expect 2-4 weeks to develop technique
+- First few shaves may have minor nicks
+- After adjustment: faster and better than cartridge
+
+---
+
+### Section 3: Best Safety Razors for Beginners (Product Comparison)
+**Target Keywords:** best safety razor for beginners 2025, beginner safety razor, Merkur 34C vs Edwin Jagger
+
+**Comparison Table (Above the Fold):**
+| Razor | Price | Weight | Aggressiveness | Best For | Buy Link |
+|-------|-------|--------|----------------|----------|----------|
+| Merkur 34C | ~$40 | 77g | Mild | Most beginners | [Amazon] |
+| Edwin Jagger DE89 | ~$35 | 65g | Mild | Lighter feel | [Amazon] |
+| Vikings Blade Chieftain | ~$30 | 100g | Mild-Medium | Budget option | [Amazon] |
+| Henson AL-13 | ~$70 | 38g | Very Mild | Sensitive skin | [Amazon] |
+| Rockwell 6C | ~$50 | 102g | Adjustable | Experimentation | [Amazon] |
+
+**Individual Product Reviews (150-200 words each):**
+
+**3.1 Merkur 34C "HD" (Editor's Choice)**
+- Why it's #1: Perfect balance of forgiveness and efficiency
+- Specs: 77g, closed comb, short handle (3")
+- Best blade pairings: Astra SP, Derby Extra
+- Pros: Build quality, forgiving angle, widely available
+- Cons: Short handle (may need adjustment), no adjustability
+- Best for: First-time users, daily shavers
+- ASIN for affiliate link
+
+**3.2 Edwin Jagger DE89**
+- Why consider it: Lighter weight, chrome finish, elegant design
+- Specs: 65g, closed comb, 3.5" handle
+- Best blade pairings: Astra SP, Personna
+- Pros: Affordable, great for learning angle
+- Cons: Chrome can wear over years
+- Best for: Those who prefer lighter razors
+
+**3.3 Vikings Blade Chieftain**
+- Budget-friendly option analysis
+- Specs, blade pairings, pros/cons
+
+**3.4 Henson AL-13**
+- Precision-machined aluminum, ultra-mild
+- Best for sensitive skin, minimal blade exposure
+
+**3.5 Rockwell 6C**
+- Adjustable plates explanation (R1-R6 settings)
+- Great for learning what aggressiveness suits you
+
+**Quick Picks Callout Box:**
+- Best Overall: Merkur 34C
+- Best Budget: Vikings Blade Chieftain
+- Best for Sensitive Skin: Henson AL-13
+- Most Versatile: Rockwell 6C
+
+---
+
+### Section 4: Best Blades & Razor Pairings
+**Target Keywords:** best safety razor blades, Feather vs Astra, safety razor blade comparison
+
+**Blade Comparison Table:**
+| Blade | Sharpness | Smoothness | Durability | Cost/Blade | Best For |
+|-------|-----------|------------|------------|------------|----------|
+| Astra Superior Platinum | 7/10 | 8/10 | 3-5 shaves | $0.12 | Best all-around |
+| Derby Extra | 5/10 | 9/10 | 2-4 shaves | $0.10 | Beginners |
+| Feather Hi-Stainless | 10/10 | 6/10 | 2-3 shaves | $0.45 | Experienced |
+| Gillette Silver Blue | 8/10 | 8/10 | 4-5 shaves | $0.30 | Quality option |
+| Personna Lab Blue | 7/10 | 8/10 | 4-5 shaves | $0.20 | Consistent |
+
+**Razor + Blade Pairing Recommendations:**
+- Merkur 34C + Astra SP = Classic beginner combo
+- Edwin Jagger DE89 + Derby Extra = Ultra-forgiving start
+- Henson AL-13 + Feather = Mild razor tames sharp blade
+- Rockwell 6C (R3) + Personna = Balanced combination
+
+**Why Blades Are Personal:**
+- Beard type, skin sensitivity, technique all matter
+- Recommend blade sampler packs for first purchase
+- Link to blade sampler on Amazon
+
+**Blade Care Tips:**
+- Pat blade dry after each use (extends life 50%)
+- Store razor in dry location
+- Change blade every 5-7 shaves (or when tugging starts)
+
+---
+
+### Section 5: How to Shave with a Safety Razor (Technique Guide)
+**Target Keywords:** how to use safety razor, safety razor technique, safety razor angle
+
+**5.1 Before You Shave: Preparation**
+- Shower first (warm water softens hair)
+- Apply pre-shave oil (optional, helps sensitive skin)
+- Use quality shaving soap/cream with brush (not canned foam)
+- Build lather directly on face
+
+**5.2 The Shaving Technique (Step-by-Step)**
+1. **Load the blade:** Unscrew handle, place blade on baseplate, reassemble
+2. **Hold at 30-degree angle:** Handle about 30° from face, let blade weight do work
+3. **Zero pressure:** Only the weight of the razor—no pushing
+4. **Short strokes:** 1-2 inch strokes, rinse blade frequently
+5. **With the grain (WTG) first pass:** Map your beard grain direction
+6. **Across the grain (XTG) optional second pass:** For closer shave
+7. **Against the grain (ATG):** Only for experienced users, highest irritation risk
+
+**Visual Diagram Needed:**
+- Angle illustration (30° from face)
+- Grain direction map (typical patterns)
+- Pass direction arrows
+
+**5.3 Common Mistakes to Avoid**
+- Too much pressure (causes nicks and irritation)
+- Wrong angle (blade won't cut or will scrape)
+- Too many passes (1-2 is enough for most)
+- Using dull blade (change at first sign of tugging)
+- Shaving over un-lathered skin
+
+**5.4 Post-Shave Care**
+- Rinse with cold water (closes pores)
+- Apply alum block (optional, antiseptic)
+- Use alcohol-free aftershave balm
+- Rinse and dry razor, store properly
+
+---
+
+### Section 6: Safety Razor Savings Calculator (Interactive)
+**Target Keywords:** safety razor cost savings, how much money save safety razor
+
+**Calculator Inputs:**
+- Current cartridge cost (default: $4.50)
+- Cartridges per month (default: 4)
+- Planned razor purchase price (default: $40)
+- Blade cost (default: $0.15)
+- Blades per month (default: 4)
+
+**Calculator Outputs:**
+- Monthly cartridge cost: $18
+- Monthly safety razor cost: $0.60
+- Monthly savings: $17.40
+- First year savings: $168.80 (after razor purchase)
+- 5-year savings: $1,044
+
+**Pre-calculated Examples Box:**
+- Light shaver (2x/week): Save $180 in Year 1
+- Daily shaver (7x/week): Save $250 in Year 1
+- Heavy shaver (daily, coarse beard): Save $300+ in Year 1
+
+---
+
+### Section 7: Women's Safety Razor Guide
+**Target Keywords:** women's safety razor, safety razor for legs, safety razor for women
+
+**7.1 Why Women Are Switching**
+- Same benefits: cost, skin, environment
+- Larger shaving surface = more blade usage = bigger savings
+- Reduced irritation for legs, underarms, bikini
+
+**7.2 Best Safety Razors for Women**
+- Look for: Longer handles (4"+), mild aggression, good grip
+- Recommended: Edwin Jagger DE89L (long handle), Merkur 23C (long handle)
+- Avoid: Short handles designed for face shaving
+
+**7.3 Body Shaving Technique Tips**
+- Legs: Long strokes with grain, no pressure needed
+- Underarms: Multi-directional hair, short strokes each direction
+- Bikini area: Only WTG, use fresh blade, extra lather
+- Knees/ankles: Go slower, re-lather tricky areas
+
+**7.4 Women's Product Recommendations**
+- Longer handle razors (with ASINs)
+- Mild blade recommendations (Derby, Astra)
+- Moisturizing shaving soaps
+- Post-shave care for body
+
+---
+
+### Section 8: FAQ Section (Schema Markup Ready)
+**Target Keywords:** safety razor FAQ, safety razor questions
+
+**Q1: Are safety razors better than cartridge razors?**
+A: For most people, yes. Safety razors provide a closer shave with less irritation because they use a single sharp blade instead of multiple blades that tug and pull. They're also significantly cheaper long-term ($0.10-0.50 per blade vs $4-6 per cartridge) and better for the environment.
+
+**Q2: How often should I change my safety razor blade?**
+A: Most people change blades every 5-7 shaves, though this varies by beard thickness and blade brand. Signs you need a new blade: tugging sensation, requires more passes, or increased irritation. Some get 10+ shaves per blade; others prefer fresh blades every 2-3 shaves.
+
+**Q3: Can beginners use safety razors?**
+A: Absolutely. Modern safety razors like the Merkur 34C and Edwin Jagger DE89 are designed to be beginner-friendly. Expect a 2-4 week learning curve. Start with a mild razor and forgiving blade (like Astra SP or Derby Extra), use zero pressure, and maintain a 30-degree angle.
+
+**Q4: Do safety razors cause less irritation?**
+A: Generally yes. Single-blade razors don't create the "lift and cut" action of multi-blade cartridges that causes ingrown hairs. Combined with proper technique (no pressure, correct angle, quality lather), most users report significant reduction in razor burn and irritation.
+
+**Q5: Are all safety razor blades the same size?**
+A: Yes. Standard double-edge (DE) blades are universally sized and fit all standard safety razors. This means you can try any brand of blade in your razor. The only exception is proprietary systems like the OneBlade, which use their own blade format.
+
+**Q6: Can I travel with a safety razor?**
+A: Yes, with limitations. The razor handle can go in carry-on luggage—it's just metal with no blade. However, blades must go in checked luggage (TSA considers them prohibited items in carry-on). For short trips, some travelers buy blades at their destination.
+
+**Q7: What angle should I hold a safety razor?**
+A: Approximately 30 degrees from your face—imagine the handle pointing away from your face at a slight angle. A simple technique: place the razor head flat against your face (cap touching skin), then slowly tilt the handle down until the blade just begins to contact your skin.
+
+**Q8: How do I avoid cuts with a safety razor?**
+A: Three key factors: 1) Zero pressure—let the razor's weight do the work, 2) Proper angle—about 30 degrees, 3) Short strokes—1-2 inches at a time. Most cuts come from pressing too hard or trying to rush. Use quality lather and take your time, especially when learning.
+
+**Q9: Are safety razors good for sensitive skin?**
+A: Often better than cartridge razors. Single-blade design causes less irritation than multi-blade cartridges. For sensitive skin, choose a mild razor (Henson AL-13, Merkur 34C) with a gentle blade (Derby Extra), use pre-shave oil, quality lather, and follow up with alcohol-free aftershave balm.
+
+**Q10: How much money can I save with a safety razor?**
+A: Typical savings: $150-250 per year after the initial razor purchase. Example: Replacing $4.50 cartridges (4/month = $216/year) with $0.15 blades (4/month = $7.20/year) saves about $209/year. The $40 razor pays for itself in about 2-3 months.
+
+---
+
+## Site Architecture
+
+### Main Pages
+1. **index.html** - Homepage with all 8 sections above
+2. **about.html** - About the site, affiliate disclosure, methodology
+
+### Navigation Structure
+- Home
+- Best Razors (anchor: #best-razors)
+- Best Blades (anchor: #best-blades)
+- How to Shave (anchor: #technique)
+- Calculator (anchor: #calculator)
+- Women's Guide (anchor: #womens-guide)
+- FAQ (anchor: #faq)
+- About
+
+### Schema Markup to Implement
+- Article schema (main page)
+- FAQPage schema (FAQ section)
+- Product schema (each razor/blade recommendation)
+- HowTo schema (technique section)
+
+---
+
+## Differentiation Strategy Summary
 - More concrete data (prices, specs, savings calculations)
 - Better visual organization (comparison tables)
 - Inclusive content (women's shaving)
 - Practical tools (cost calculator)
 - Complete beginner support (troubleshooting, maintenance)
+- Honest about learning curve (builds trust)
